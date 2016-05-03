@@ -23,6 +23,9 @@ wp-content/plugins/hello.php
 ####################
 # Themes deafult
 ####################
-wp-content/themes/twentyfifteen
-wp-content/themes/twentyfourteen
-wp-content/themes/twentysixteen
+wp-content/themes/twentyfifteen/
+wp-content/themes/twentyfourteen/
+wp-content/themes/twentysixteen/
+
+# Node packages
+node_modules/
