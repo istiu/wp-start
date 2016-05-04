@@ -1,0 +1,38 @@
+{
+  "name": "start-wp",
+  "version": "1.0.0",
+  "description": "Starter theme to create wordpress project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/istiu/wp-start.git"
+  },
+  "keywords": [
+    "wordpress",
+    "gulp",
+    "start",
+    "theme"
+  ],
+  "author": "Robert Jonathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/istiu/wp-start/issues"
+  },
+  "homepage": "https://github.com/istiu/wp-start#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.3.6",
+    "browser-sync": "^2.12.5",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sourcemaps": "^2.0.0-alpha",
+    "gulp-stylus": "^2.3.1",
+    "gulp-uglify": "^1.5.3",
+    "lost": "^6.7.2",
+    "poststylus": "^0.2.3"
+  }
+}

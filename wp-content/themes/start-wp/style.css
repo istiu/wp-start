@@ -1,0 +1,12 @@
+/*
+Theme Name: Start WP
+Theme URI: https://github.com/istiu/wp-start
+Author: Robert Jonathan
+Author URI: http://nalaje.com
+Description: Starter theme to create wordpress project
+Version: 1.0.0
+Text Domain: start-wp
+*/
+body {
+  background-color: #ffc0cb;
+}
